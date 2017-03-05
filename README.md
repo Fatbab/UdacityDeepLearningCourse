@@ -3,3 +3,5 @@ Here goes my learning adventures around Convolutional Neural Nets. The course ca
 
 Course: https://www.udacity.com/course/deep-learning--ud730    
 Assignments: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+
+I have used Santiaago's work for completeing the assignments: https://github.com/santiaago/udacity.ud730.deeplearning 
